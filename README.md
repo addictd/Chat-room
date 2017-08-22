@@ -3,4 +3,9 @@ It is a chat application,This project is made using node js and socket.io . Here
 
 
 Run the server using 
+
 $ node app.js
+
+It is also deployed over heroku 
+
+https://shrouded-sierra-38592.herokuapp.com/
